@@ -131,7 +131,7 @@ class Regression:
 if __name__ == "__main__":
 
     r = Regression()
-    # r.linearRegression()
+    r.linearRegression()
     #degree = 2
     # r.ploynomailRegression(degree)
-    r.multipleRegression()
+    # r.multipleRegression()
