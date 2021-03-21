@@ -73,7 +73,7 @@ if __name__ == "__main__":
     # accuracy ====> score=0.7662337662337663
     # confusion_matrix ===> $[[133  13] [ 41  44]]
 
-    # Iteration picks 3 fetaures in the order of correlation and the split of train and test is set to .3
+    # Iteration 2 picks 3 fetaures in the order of correlation and the split of train and test is set to .3
     # classifer = DiabetesClassifier()
     # df = classifer.pima
 
